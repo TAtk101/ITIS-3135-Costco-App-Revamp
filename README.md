@@ -49,9 +49,9 @@ Live Site: https://www.figma.com/make/SSK7vtjkMpwAIVvwbCTo06/Costco-Shopping-App
 # 2. Visuals
 
 ### 📸 Final Product Screenshots
-![Homepage Wireframe](![Screenshot 2025-12-03 001754](https://github.com/user-attachments/assets/77774ec4-fbf6-481e-810f-929e49e47190)
+Homepage Wireframe(![Screenshot 2025-12-03 001754](https://github.com/user-attachments/assets/77774ec4-fbf6-481e-810f-929e49e47190)
 )  
-![Log/Sign up Page](![Screenshot 2025-12-03 001707](https://github.com/user-attachments/assets/d04bdc07-7caa-4163-8d27-f8280aa18e06)
+Log/Sign up Page(![Screenshot 2025-12-03 001707](https://github.com/user-attachments/assets/d04bdc07-7caa-4163-8d27-f8280aa18e06)
 )  
 
 
