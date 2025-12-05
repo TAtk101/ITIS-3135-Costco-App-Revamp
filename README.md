@@ -6,7 +6,8 @@ My Role: UX Research Lead
 Team Size: 6  
 Duration: 5 months 
 Figma File:(https://www.figma.com/proto/BmiW6nO6S2Z0FrH62fhE7c/TheInterfaceSyndicate_Wireframes_Week7?node-id=276-1155&starting-point-node-id=276%3A1155&t=wzcr9jRl9NG0DUUv-1)  
-Live Site: https://www.figma.com/make/SSK7vtjkMpwAIVvwbCTo06/Costco-Shopping-App?node-id=0-1&t=i2zI0u5pkofez3GW-1
+Live Site: https://interface-syndicate.github.io/costco-app-redesign/
+https://www.figma.com/make/SSK7vtjkMpwAIVvwbCTo06/Costco-Shopping-App?node-id=0-1&t=i2zI0u5pkofez3GW-1
 ---
 # 1. My Contributions
 ### 🛠️ Sprint 1 – Environment Setup & Documentation
